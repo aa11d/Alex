@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\jakab.alex.robert\\Alex\\breakout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADFE97-386F-491C-B674-BE5DC74FB80F}|breakout\\breakout.csproj|d:\\jakab.alex.robert\\alex\\breakout\\breakout\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADFE97-386F-491C-B674-BE5DC74FB80F}|breakout\\breakout.csproj|solutionrelative:breakout\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADFE97-386F-491C-B674-BE5DC74FB80F}|breakout\\breakout.csproj|d:\\jakab.alex.robert\\alex\\breakout\\breakout\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADFE97-386F-491C-B674-BE5DC74FB80F}|breakout\\breakout.csproj|solutionrelative:breakout\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADFE97-386F-491C-B674-BE5DC74FB80F}|breakout\\breakout.csproj|d:\\jakab.alex.robert\\alex\\breakout\\breakout\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04ADFE97-386F-491C-B674-BE5DC74FB80F}|breakout\\breakout.csproj|solutionrelative:breakout\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\jakab.alex.robert\\Alex\\breakout\\breakout\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "breakout\\Form1.Designer.cs",
+              "ToolTip": "D:\\jakab.alex.robert\\Alex\\breakout\\breakout\\Form1.Designer.cs",
+              "RelativeToolTip": "breakout\\Form1.Designer.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAowG8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:56:33.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\jakab.alex.robert\\Alex\\breakout\\breakout\\Form1.cs",
+              "RelativeDocumentMoniker": "breakout\\Form1.cs",
+              "ToolTip": "D:\\jakab.alex.robert\\Alex\\breakout\\breakout\\Form1.cs",
+              "RelativeToolTip": "breakout\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwDwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:56:20.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\jakab.alex.robert\\Alex\\breakout\\breakout\\Form1.cs",
+              "RelativeDocumentMoniker": "breakout\\Form1.cs",
+              "ToolTip": "D:\\jakab.alex.robert\\Alex\\breakout\\breakout\\Form1.cs [Design]",
+              "RelativeToolTip": "breakout\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:55:09.594Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
